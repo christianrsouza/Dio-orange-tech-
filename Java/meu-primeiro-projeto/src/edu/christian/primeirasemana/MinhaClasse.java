@@ -1,3 +1,4 @@
+package edu.christian.primeirasemana;
 public class MinhaClasse {
     public static void main(String[] args) throws Exception {
         //System.out.print (" Ola mundo");
