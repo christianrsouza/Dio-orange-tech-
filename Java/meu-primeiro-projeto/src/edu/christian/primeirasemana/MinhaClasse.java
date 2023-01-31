@@ -11,7 +11,6 @@ public class MinhaClasse {
 
     }
 public static String nomeCompleto (String primeiroNome, String segundoNome){
-    return primeiroNome.concat(" ").concat(segundoNome);//criaççao do metodo e concatenando 
     //return primeiroNome + " " + segundoNome; outra forma de fazer
 }
 
